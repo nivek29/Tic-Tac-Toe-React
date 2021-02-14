@@ -11,3 +11,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.contentJuego{
+    width: 350px;
+    height: 500px;
+}
+.board{
+    
+    width: 30%;
+    height: 150px;
+    font-size: 60px;
+    background: rgb(78, 78, 75);
+    border: 8px solid rgb(36, 36, 36);
+    display: inline-block;
+    color: dimgray;
+    text-align: center;
+    line-height: 150px;
+}
+.hidden{
+    display: none;
+}
+.contentGame{
+    width: 300px;
+    height: 300px;
+}
